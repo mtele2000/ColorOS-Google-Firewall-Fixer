@@ -18,7 +18,7 @@ else
     echo "[$(date)] 日志开始记录" > "$LOGFILE"
 fi
 
-chains="fw_INPUT fw_OUTPUT"
+chains="fw_INPUT fw_OUTPUT fw_OUTPUT_oplus_dns"
 
 echo "[$(date)] 开始清理 IPv4 和 IPv6 中的 REJECT 规则..." >> "$LOGFILE"
 

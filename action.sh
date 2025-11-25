@@ -4,7 +4,7 @@ SCRIPT_DIR=${0%/*}
 
 source ${SCRIPT_DIR}/common.sh
 
-chains="fw_INPUT fw_OUTPUT"
+chains="fw_INPUT fw_OUTPUT fw_OUTPUT_oplus_dns"
 
 echo "[$(date)] 开始手动清理 IPv4 和 IPv6 中的 REJECT 规则..." >> "$LOGFILE"
 
